@@ -13,7 +13,7 @@
   "dependencies": {
     "@types/csv-parse": "^1.2.2",
     "@types/uuid": "^8.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "csv-parse": "^4.8.8",
